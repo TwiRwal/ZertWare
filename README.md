@@ -9,18 +9,6 @@
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/TwiWare/main/TwiLoader", true))()
 ```
-
-# Ranks
-```lua
- **Wellcomer/default 0 OwO Coins**
- 
-**Dontcer - 500000 OwO Coins**
-
-** OP Dontcer - 900000 OwO Coin**
- 
-**Premium - 1000000 OwO Coins **
-```
-
 # Website 
 ```lua
 https://twiwareroblox.godaddysites.com/
