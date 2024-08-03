@@ -25,6 +25,7 @@ TextLabel.TextSize = 28
 TextLabel.TextWrapped = true
 TextLabel.TextXAlignment = Enum.TextXAlignment.Left
 TextLabel.MouseButton1Down:Connect(function()
+        print("fixed")
 end)
 
 UIGradient.Color = ColorSequence.new{
